@@ -45,6 +45,16 @@ Servo 6 - Pin 7
 - Ensure that the 9V battery GND is connected to the Arduino GND for circuit stability.
 ---
 ## Arduino Code 💻
+------
+
+## Steps to Run the Project 📌
+
+- Assemble the circuit as per the wiring guide above.
+- Upload the Arduino code using the Arduino IDE.
+- Observe the servo motors:
+First, they will execute a Sweep motion for 2 seconds.
+Then, they will hold at 90°.
+-------
 
 ## Project Instructions 🚀
 1. Connect all servo motors as described in the circuit setup.  
