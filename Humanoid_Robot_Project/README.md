@@ -1,4 +1,4 @@
-# Humanoid Robot: Servo Motor Control 🤖
+# Six_Servo_Control 🤖
 
 ## Project Overview 📚
 This project demonstrates how to control **6 servo motors** using an **Arduino Uno**. The motors perform two main actions:  
