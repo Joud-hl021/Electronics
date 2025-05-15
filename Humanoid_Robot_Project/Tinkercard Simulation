@@ -1,0 +1,7 @@
+### 🔌 Tinkercad Simulation
+
+You can view and interact with the full simulation of the six-servo motor control circuit on Tinkercad:
+
+🔗 [Click here to open the Tinkercad simulation](https://www.tinkercad.com/things/5uhStyLwNla-brave-borwo)
+
+This simulation includes the Arduino UNO, six servo motors, and the programmed walking sequence logic. It was used to verify PWM signal synchronization and servo positioning before physical implementation.
